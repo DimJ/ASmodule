@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@netnexus/node-cborwebtoken": "^2.0.6",
+    "http-server": "^0.11.1",
+    "web3": "github:ethereum/web3.js"
+  }
+}
